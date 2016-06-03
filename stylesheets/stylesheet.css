@@ -96,13 +96,8 @@ header h2 {
 }
 
 #container .inner img {
-  margin: 0 auto;
-  
+  max-width: 100%;
 }
-
-.img_center {
-  margin: 0 auto;
-}  
 
 #downloads {
   margin-bottom: 40px;
