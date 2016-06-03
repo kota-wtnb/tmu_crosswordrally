@@ -100,6 +100,10 @@ header h2 {
   
 }
 
+.img_center {
+  margin: 0 auto;
+}  
+
 #downloads {
   margin-bottom: 40px;
 }
